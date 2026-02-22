@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kingsportplumbingco.com/sitemap.xml
